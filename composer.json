@@ -1,10 +1,10 @@
 {
-    "name": "shady/redis-information-analyzer",
+    "name": "snipershady/redis-information-analyzer",
     "description": "Software to analyze redis performances",
     "keywords": ["redis", "redis info", "redis analyzer"],
     "type": "library",
     "homepage": "https://www.spinfo.it",
-    "license": "GPL-3.0-or-later",
+    "license": "GPL-2.0-or-later",
     "minimum-stability": "stable",
     "prefer-stable": true,
     "authors": [
