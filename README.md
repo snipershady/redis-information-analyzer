@@ -240,6 +240,8 @@ if ($allInfo['persistence']->getRdbLastBgsaveStatus() !== 'ok') {
 
 The library includes a ready-to-use web dashboard for visualizing Redis information.
 
+![Redis Dashboard](public/redis_index.png)
+
 ### Setup Web Dashboard
 
 1. Point your web server to the `public` directory:
