@@ -31,7 +31,7 @@ A powerful PHP library to analyze and monitor Redis server performance and stati
 Install the library via Composer:
 
 ```bash
-composer require shady/redis-information-analyzer
+composer require snipershady/redis-information-analyzer
 ```
 
 ## Quick Start
