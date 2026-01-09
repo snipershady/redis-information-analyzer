@@ -1,7 +1,7 @@
 # Redis Information Analyzer
 
 [![PHP Version](https://img.shields.io/badge/PHP-%3E%3D8.2-blue.svg)](https://www.php.net/)
-[![License](https://img.shields.io/badge/License-GPL--3.0--or--later-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-GPL--2.0-green.svg)](LICENSE)
 
 A powerful PHP library to analyze and monitor Redis server performance and statistics. This library provides an elegant object-oriented interface to retrieve and analyze Redis information with strongly-typed DTOs.
 
@@ -372,12 +372,11 @@ composer rector
 
 ## License
 
-This project is licensed under the **GPL-3.0-or-later** License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **GPL-2.0** License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
-**Stefano Perrini** (aka La Matrigna)
-- Email: perrini.stefano@gmail.com
+**Stefano Perrini**
 - Homepage: [https://www.spinfo.it](https://www.spinfo.it)
 
 ## Contributing
